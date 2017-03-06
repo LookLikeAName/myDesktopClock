@@ -1,0 +1,9 @@
+H:\My document\Program\desktopClock\desktopClock\bin\Debug\desktopClock.exe.config
+H:\My document\Program\desktopClock\desktopClock\bin\Debug\desktopClock.exe
+H:\My document\Program\desktopClock\desktopClock\bin\Debug\desktopClock.pdb
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.csprojResolveAssemblyReference.cache
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.Form1.resources
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.Properties.Resources.resources
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.csproj.GenerateResource.Cache
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.exe
+H:\My document\Program\desktopClock\desktopClock\obj\Debug\desktopClock.pdb
